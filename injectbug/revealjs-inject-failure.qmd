@@ -1,0 +1,14 @@
+---
+title: "Header Include Bug RevealJS Example"
+format: revealjs
+filters:
+  - injectbug
+---
+
+## Code
+
+This filter should replace the code block given below and add a script into the header of the document.
+
+```{somecode-r}
+Blah
+```
